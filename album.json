@@ -1,0 +1,22 @@
+{
+  "albums": [
+    {
+      "artist": "Eminem",
+      "album_title": "The Marshall Mathers LP",
+      "year_of_release": 2000,
+      "tracks": ["Kill You", "Stan", "The Real Slim Shady", "The Way I Am", "I'm Back"]
+    },
+    {
+      "artist": "Jason Derulo",
+      "album_title": "Talk Dirty",
+      "year_of_release": 2014,
+      "tracks": ["Talk Dirty", "Wiggle", "Trumpets", "Bubblegum", "Vertigo"]
+    },
+    {
+      "artist": "Ava Max",
+      "album_title": "Heaven & Hell",
+      "year_of_release": 2020,
+      "tracks": ["Kings & Queens", "Naked", "OMG What’s Happening", "Who’s Laughing Now", "Belladonna"]
+    }
+  ]
+}
